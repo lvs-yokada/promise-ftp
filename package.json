@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "bluebird": "2.x",
-    "@icetee/ftp": "^1.0.3",
+    "@icetee/ftp": "git+https://github.com/lvs-yokada/node-ftp#master",
     "promise-ftp-common": "^1.1.5"
   },
   "devDependencies": {
